@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Senior Machine Learning Engineer with 10+ years of experience in Data Science and ML, specializing in Deep Learning for medical and healthcare applications.
+- Proven ability to develop innovative solutions and tackle complex challenges using NLP, Computer Vision, and Multimodal Data analysis.
+- Passionate about leveraging AI and Machine Learning to deliver high-impact results and advance the field.
+- Expertise in Python, PyTorch, TensorFlow, and related data science and machine learning tools.
+- Currently contributing to the development of cutting-edge diagnostic tools for chronic wound assessment at Kronikare Pte Ltd.
